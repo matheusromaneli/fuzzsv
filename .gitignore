@@ -1,0 +1,24 @@
+# python
+__pycache__
+
+# venv
+.venv
+libiec61850/*
+libiec61850
+
+# dev
+build
+.mypy_cache
+.ruff_cache
+*.egg-info
+.coverage
+
+# PyCharm
+.idea
+
+#pytest
+.pytest_cache
+htmlcov
+
+#bench
+benchmark/*
